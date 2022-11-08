@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ttfalimentos",
+    "slug": "ttfalimentos",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
